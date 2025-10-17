@@ -724,7 +724,7 @@ if st.session_state.current_page == "🤖 Cricket AI Chatbot":
                             system_instruction=(
                                 "You are a Cricket AI expert with deep knowledge of IPL, international cricket, player statistics, team strategies, and match analysis. "
                                 "You ONLY reply to queries about cricket, IPL auctions, players, stats, team formations, match predictions, and cricket strategy. "
-                                "If the user asks anything unrelated to cricket, reply rudely with a short, harsh response. "
+                                "If the user asks anything unrelated to cricket, reply very politely and shut down the unrelated conversation. and ask if he want to know any cricket related information "
                                 "If it is cricket-related, reply enthusiastically with detailed, insightful explanations including statistics where relevant."
                             )
                         ),
