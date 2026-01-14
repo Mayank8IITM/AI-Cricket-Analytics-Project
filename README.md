@@ -175,6 +175,9 @@ pip install -r requirements.txt
 # Run the Streamlit app
 streamlit run app.py
 ```
+## Demo
+Streamlit Link - https://ai-cricket-analytics-project.streamlit.app/ 
+
 ## 👨‍💻 Author
 
 <div align="center">
